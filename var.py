@@ -1,5 +1,5 @@
-#Created by: Jayachandra_kumar
-#Topic: python variables
+#Created by: jayachandra_kumar
+#Topic: Python variables
 print("Hello World")
 a = 2
 b = 4
